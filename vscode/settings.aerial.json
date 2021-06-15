@@ -1,23 +1,6 @@
 {
     "git.ignoreMissingGitWarning": true,
     "editor.wordWrap": "on",
-    "files.encoding": "utf8",
-    "[html]": {
-        "editor.defaultFormatter": "vscode.html-language-features",
-        "files.encoding": "utf8"
-    },
-    "[asp]": {
-        "editor.defaultFormatter": "vscode.html-language-features",
-        "files.encoding": "windows1252"
-    },
-    "[scss,css]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode",
-        "files.encoding": "utf8"
-    },
-    "[js]": {
-        "editor.defaultFormatter": "vscode.css-language-features",
-        "files.encoding": "utf8"
-    },
     "editor.minimap.maxColumn": 15,
     "editor.fontFamily": "'JetBrains Mono', 'Courier New', monospace",
     "editor.fontSize": 13,
@@ -114,4 +97,20 @@
     "remote.SSH.suppressWindowsSshWarning": true,
     "remote.SSH.enableX11Forwarding": false,
     "workbench.startupEditor": "newUntitledFile",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features",
+        "files.encoding": "utf8"
+    },
+    "[asp]": {
+        "editor.defaultFormatter": "vscode.html-language-features",
+        "files.encoding": "windows1252"
+    },
+    "[scss,css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "files.encoding": "utf8"
+    },
+    "[js]": {
+        "editor.defaultFormatter": "vscode.css-language-features",
+        "files.encoding": "utf8"
+    },
 }
