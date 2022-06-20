@@ -11,8 +11,6 @@ dotfile
 ### Theme
 "dark plus" or "dark" from VSCode
 
-![Screenshot software](https://raw.githubusercontent.com/samdark/icls-vs-code-dark-plus/master/screenshot.png "screenshot software")
-
 [PhpStorm version](https://github.com/samdark/icls-vs-code-dark-plus)
 
 ## Editor config
