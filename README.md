@@ -13,4 +13,8 @@ dotfile
 
 ![Screenshot software](https://raw.githubusercontent.com/samdark/icls-vs-code-dark-plus/master/screenshot.png "screenshot software")
 
-### [PhpStorm version](https://github.com/samdark/icls-vs-code-dark-plus)
+[PhpStorm version](https://github.com/samdark/icls-vs-code-dark-plus)
+
+## Editor config
+*Config from [EditorConfig](https://EditorConfig.org)  standard to set unified config in all editors*
+* [Editor config file](./editorconfig/.editorconfig)
