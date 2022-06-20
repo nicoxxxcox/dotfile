@@ -1,6 +1,6 @@
 dotfile
 ======
-** A personal dotfile who don't forget
+**A personal dotfile who don't forget my configurations 🤔**
 
 ## Syntax color
 "dark plus" or "dark" from VSCode
