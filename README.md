@@ -1,6 +1,6 @@
 <img src="https://dotfiles.github.io/images/dotfiles-logo.png" alt="dotfiles logo" width="400" />
 
-*A personal dotfile who don't forget my configurations*🤔
+*A personal dotfile who don't forget my configurations*
 ## Vscode
 ### Settings
 * [Vscode general setttings](./vscode/settings.json)
