@@ -1,0 +1,108 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.trimTrailingWhitespace": true, // On ne veut pas laisser d'espace dans les nomes des fichiers
+    // Apparence
+    // -- Editeur
+    "workbench.startupEditor": "none", // On ne veut pas une page d'accueil chargée
+    "editor.accessibilitySupport": "off",
+    "editor.minimap.maxColumn": 40,
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.size": "fill",
+    "editor.unicodeHighlight.nonBasicASCII": false,
+    "editor.formatOnSaveMode": "modificationsIfAvailable",
+    "editor.stickyScroll.enabled": true,
+    "editor.fontFamily": "'JetBrains Mono', Monaco, 'Courier New', monospace",
+    // -- Sidebar
+    "workbench.tree.indent": 15, // Indente plus pour plus de clarté dans la sidebar
+    "workbench.tree.renderIndentGuides": "always",
+    // -- Code
+    "editor.occurrencesHighlight": true,
+    "editor.renderWhitespace": "trailing", // On ne veut pas laisser d'espace en fin de ligne
+    "editor.linkedEditing": true, // autorename tags
+    "html.autoClosingTags": true, // autoclosing tags
+    "javascript.autoClosingTags": true, // autoclosing tags
+    "typescript.autoClosingTags": true, // autoclosing tags
+    // -- Emmet
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+      "twig": "html"
+    },
+    // Thème
+    "editor.fontLigatures": true,
+    "editor.fontSize": 12,
+    "editor.lineHeight": 19,
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.colorDecorators": true,
+    // Ergonomie
+    "editor.wordWrap": "on",
+    "editor.suggest.insertMode": "replace", // L'autocomplétion remplace le mot en cours
+    "editor.acceptSuggestionOnCommitCharacter": false, // Evite que l'autocomplétion soit accepté lors d'un . par exemple
+    "explorer.autoReveal": false,
+    "workbench.editor.enablePreview": false, // Un clic sur un fichier l'ouvre
+
+    // Fichiers
+    "files.defaultLanguage": "markdown",
+    "files.exclude": {
+      "**/.idea": true
+    },
+    // -- Git
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    // Formatters
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "material-icon-theme.hidesExplorerArrows": true,
+
+    // Extensions
+    "extensions.ignoreRecommendations": true,
+    // -- Gitlens
+    "gitlens.defaultGravatarsStyle": "retro",
+    "gitlens.plusFeatures.enabled": false,
+    "gitlens.showWelcomeOnInstall": false,
+    "gitlens.views.commits.avatars": false,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.currentLine.enabled": false,
+    // -- Volar
+    "volar.icon.preview": false,
+    // Indentation guides colorization
+    "editor.guides.bracketPairs" : true,
+    "editor.guides.highlightActiveIndentation" : true,
+    "editor.guides.bracketPairsHorizontal" : "active",
+
+    "workbench.colorCustomizations": {
+        "[Panda Syntax]": {
+          "editorBracketPairGuide.background1": "#FFB86C",
+          "editorBracketPairGuide.background2": "#FF75B5",
+          "editorBracketPairGuide.background3": "#45A9F9",
+          "editorBracketPairGuide.background4": "#B084EB",
+          "editorBracketPairGuide.background5": "#E6E6E6",
+          "editorBracketPairGuide.background6": "#19f9d8",
+
+          "editorBracketPairGuide.activeBackground1": "#FFB86C",
+          "editorBracketPairGuide.activeBackground2": "#FF75B5",
+          "editorBracketPairGuide.activeBackground3": "#45A9F9",
+          "editorBracketPairGuide.activeBackground4": "#B084EB",
+          "editorBracketPairGuide.activeBackground5": "#E6E6E6",
+          "editorBracketPairGuide.activeBackground6": "#19f9d8",
+    }
+
+    },
+    // TWIG
+    "files.associations": {
+      "*.html": "twig"
+    },
+  }
