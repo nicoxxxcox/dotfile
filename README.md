@@ -3,7 +3,7 @@
 *A personal dotfile who don't forget my configurations*🤔
 ## Vscode
 ### Settings
-* [Vscode general setttings](./vscode/settings.general.json)
+* [Vscode general setttings](./vscode/settings.json)
 
 ---
 
@@ -22,14 +22,14 @@
 * [Editor config file](./editorconfig/.editorconfig)
 ---
 ## Fonts
-* JetBrains Mono 
+* JetBrains Mono
     * [Repo](https://github.com/JetBrains/JetBrainsMono)
     * [Installation](https://github.com/JetBrains/JetBrainsMono#manual-installation)
     * [Download latest](https://github.com/JetBrains/JetBrainsMono/releases/latest)
-* FiraCode Mono 
+* FiraCode Mono
     * [Repo](https://github.com/tonsky/FiraCode)
     * [Installation](https://github.com/tonsky/FiraCode/wiki)
     * [Download latest](https://github.com/tonsky/FiraCode/releases/latest)
-* IBM Plex 
+* IBM Plex
     * [Repo](https://github.com/IBM/plex)
     * [Download latest](https://github.com/tonsky/FiraCode/releases/latest)
